@@ -1,4 +1,4 @@
-# Serveur de sockets
+# Serveur de sockets TCP
 
 Ce projet consiste en un serveur de sockets basique implémenté en langage C, capable de recevoir des messages des clients et de leur renvoyer ces messages.
 
